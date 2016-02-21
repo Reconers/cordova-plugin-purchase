@@ -5,7 +5,6 @@
   "cordova": {
     "id": "cc.fovea.cordova.purchase",
     "platforms": [
-      "android",
       "ios"
     ]
   },
@@ -15,7 +14,6 @@
   },
   "keywords": [
     "ecosystem:cordova",
-    "cordova-android",
     "cordova-ios",
     "cordova",
     "phonegap",
